@@ -1,57 +1,48 @@
-# 👋 Hi, I'm Jahnavi Gajjala
+# Hi, I'm Jahnavi Gajjala 👋
 
-### B.Tech CSE Student | Software Engineering | Java | Web Development
+### Final-year Computer Science & Engineering student · Aspiring Java Backend / Full-Stack Developer
 
-Final-year Computer Science student focused on building practical software projects and preparing for software engineering opportunities.
+I build practical web applications that solve real workflow problems—from civic complaint handling to real-time learning platforms and job-search organisation. I am graduating in **2027** and preparing for entry-level Software Engineer roles in India.
 
-I work with **Java, SQL, HTML, CSS, JavaScript, PHP, Tailwind CSS, MySQL, and Firebase**.
+- 🔭 Currently building: **CareerTrack**, a Java + Spring Boot + MySQL job application tracker
+- 🌱 Strengthening: **Java, Spring Boot, REST APIs, SQL, DSA, and system fundamentals**
+- 🎯 Looking for: **Software Engineer, Backend Developer, and Full-Stack Developer** opportunities
 
-## 🎯 Open to
+## Technical toolkit
 
-- Software Engineer / Software Developer Internships
-- Backend / Full-Stack Development Internships
-- Entry-level Software Engineering roles
+| Area | Skills |
+| --- | --- |
+| Languages | Java, JavaScript, PHP, SQL, C |
+| Backend | Spring Boot, Spring Data JPA, REST APIs, PHP |
+| Frontend | HTML, CSS, JavaScript, Tailwind CSS |
+| Databases | MySQL, Firebase Realtime Database |
+| Engineering | Git, GitHub, OOP, DSA, DBMS, OS, Computer Networks |
 
-## 🛠️ Technical Skills
+## Featured projects
 
-**Programming:** Java, JavaScript, PHP  
-**Web:** HTML, CSS, Tailwind CSS  
-**Database:** SQL, MySQL  
-**Tools & Platforms:** Git, GitHub, Firebase, XAMPP
+### [CareerTrack — Job Application Tracker](https://github.com/jahnavi-gajjala/job-application-tracker)
+Full-stack job-search organiser with a Spring Boot REST API and MySQL persistence. Users can create, edit, search, filter, and track applications through interviews and offers.
 
-## 🚀 Featured Projects
+**Java 17 · Spring Boot · Spring Data JPA · MySQL · HTML · CSS · JavaScript**
 
-### 💻 CodePlay
-A programming-learning platform with quizzes, multiplayer rooms, leaderboards, authentication, and Firebase-based real-time synchronization.
+### [Drainage System Revitalization Portal](https://github.com/jahnavi-gajjala/drainagesystem)
+Civic complaint-management portal for reporting drainage and sanitation issues and supporting an authority-side review workflow.
 
-**Tech:** HTML, CSS, Tailwind CSS, JavaScript, PHP, MySQL, Firebase
+**PHP · MySQL · JavaScript · Tailwind CSS**
 
-[View Repository](https://github.com/jahnavi-gajjala/codeplay)
+### [CodePlay](https://github.com/jahnavi-gajjala/codeplay)
+Interactive programming-learning platform featuring quiz levels, multiplayer rooms, authentication, real-time score synchronization, and leaderboards.
 
-### 🌊 Drainage System Revitalization Portal
-A web platform for reporting and managing drainage and sanitation complaints, including complaint tracking and an authority-side workflow.
+**PHP · MySQL · Firebase · JavaScript**
 
-**Tech:** HTML, CSS, Tailwind CSS, JavaScript, PHP, MySQL
+## What I bring
 
-[View Repository](https://github.com/jahnavi-gajjala/drainagesystem)
+- Strong foundations in object-oriented programming and relational databases
+- Experience building complete user flows: forms, authentication, CRUD operations, dashboards, and real-time features
+- A practical mindset: clean repository structure, clear documentation, and projects that can be demonstrated
 
-### 🎮 GameHub
-An interactive multiplayer gaming platform with rooms, player profiles, leaderboards, score tracking, and real-time gameplay functionality.
+## Connect
 
-**Tech:** HTML, CSS, Tailwind CSS, JavaScript, PHP, MySQL, Firebase
+- GitHub: [@jahnavi-gajjala](https://github.com/jahnavi-gajjala)
 
-[View Repository](https://github.com/jahnavi-gajjala/gamehub)
-
-## 📚 Currently Strengthening
-
-- Java & Object-Oriented Programming
-- Data Structures & Algorithms
-- SQL & Database Fundamentals
-- Backend Development
-- Software Engineering Practices
-
-## 🤝 Connect
-
-**GitHub:** [@jahnavi-gajjala](https://github.com/jahnavi-gajjala)
-
-⭐ Thanks for visiting my profile!
+Thanks for visiting—feel free to explore the featured projects above.
